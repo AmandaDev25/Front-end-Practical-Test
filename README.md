@@ -61,7 +61,7 @@ Acesse a aplicação no navegador: **[http://localhost:5173](http://localhost:51
 
 # 📷 Screenshot
 
-(![alt text](image.png))
+![alt text](image.png)
 
 
 
